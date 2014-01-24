@@ -1,0 +1,447 @@
+TPods-AFNetworking
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-aamwtifknydrllemncjjkwneoqpa/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperation.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperationManager.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPSessionManager.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFNetworkReachabilityManager.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFSecurityPolicy.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLConnectionOperation.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLRequestSerialization.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLResponseSerialization.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLSessionManager.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/Pods-AFNetworking-dummy.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/libPods-AFNetworking.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000529CB72F00000000000025C8
+t1386002223
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000529CB72F000000000000962C
+t1386002223
+s38444
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000529CB731000000000006ECF4
+t1386002225
+s453876
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000529CB731000000000002F69C
+t1386002225
+s194204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000529CB733000000000000044C
+t1386002227
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000529CB73300000000000001DB
+t1386002227
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000529CB73E0000000000000AC9
+t1386002238
+s2761
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/libPods-AFNetworking.a
+t2
+s0
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+c0000000052DD1B7F0000000000001192
+t1390222207
+s4498
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+c0000000052DD1B7F0000000000001C80
+t1390222207
+s7296
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+c0000000052DD1B7F0000000000004912
+t1390222207
+s18706
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+c0000000052DD1B7F000000000000298C
+t1390222207
+s10636
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+c0000000052DD1B7F000000000000392D
+t1390222207
+s14637
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+c0000000052DD1B7F0000000000002F2C
+t1390222207
+s12076
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+c0000000052DD1B7F0000000000001C91
+t1390222207
+s7313
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+c0000000052DD1B7F000000000000210B
+t1390222207
+s8459
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+c0000000052DD1B7F0000000000001024
+t1390222207
+s4132
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+c0000000052DD1B7F00000000000021F1
+t1390222207
+s8689
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+c0000000052DD1B7F000000000000481C
+t1390222207
+s18460
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+c0000000052DD1B7F000000000000669C
+t1390222207
+s26268
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+c0000000052DD1B7F000000000000411B
+t1390222207
+s16667
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+c0000000052DD1B7F000000000000A53E
+t1390222207
+s42302
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+c0000000052DD1B7F0000000000002796
+t1390222207
+s10134
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+c0000000052DD1B7F0000000000005745
+t1390222207
+s22341
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+c0000000052DD1B7F000000000000638E
+t1390222207
+s25486
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+c0000000052DD1B7F00000000000099CF
+t1390222207
+s39375
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-dummy.m
+c0000000052DD1B7F000000000000008A
+t1390222207
+s138
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-prefix.pch
+c0000000052DD1B7F0000000000000052
+t1390222207
+s82
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-environment.h
+c0000000052DD1B7F00000000000006EA
+t1390222207
+s1770
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperation.o
+t1390222217
+s50240
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperationManager.o
+t1390222217
+s65444
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPSessionManager.o
+t1390222217
+s75616
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFNetworkReachabilityManager.o
+t1390222217
+s47636
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFSecurityPolicy.o
+t1390222217
+s39376
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLConnectionOperation.o
+t1390222218
+s177784
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLRequestSerialization.o
+t1390222218
+s225364
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLResponseSerialization.o
+t1390222218
+s109240
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLSessionManager.o
+t1390222218
+s237404
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/Pods-AFNetworking-dummy.o
+t1390222218
+s4180
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/Pods-AFNetworking.LinkFileList
+c0000000052DD1B860000000000000584
+t1390222214
+s1412
+
+N/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-aamwtifknydrllemncjjkwneoqpa/Pods-AFNetworking-prefix.pch.pch
+t1390222217
+s115496
+
+N/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch.pch
+t1390222217
+s115912
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd5e9fc5a538db841^5a2b0a5b538db841^---0#1#1#--18"Check dependencies36"FBF4153D-6560-4C1C-B0C2-FC7035809FE1-
+
+CCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperation.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915017.194019
+e411915017.652782
+r1
+xCompileC
+xbuild/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperation.o
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m225"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3aca3109538db841^622ca709538db841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m0000000000000000^3605"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -include /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperation.d --serialize-diagnostics /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperation.dia -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperation.o36"5F45FD43-786E-4CCF-AB3F-9149B69A2055-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+
+CCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperationManager.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915017.194358
+e411915017.630255
+r1
+xCompileC
+xbuild/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperationManager.o
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m239"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc1e13109538db841^4051a109538db841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m0000000000000000^3647"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -include /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperationManager.d --serialize-diagnostics /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperationManager.dia -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPRequestOperationManager.o36"92BDB11B-6E23-4A49-84CF-6DE35AFC591F-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+
+CCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPSessionManager.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915017.194800
+e411915017.675866
+r1
+xCompileC
+xbuild/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPSessionManager.o
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m221"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler14053209538db841^4d14ad09538db841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m0000000000000000^3593"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -include /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPSessionManager.d --serialize-diagnostics /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPSessionManager.dia -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFHTTPSessionManager.o36"D4911EF8-6C16-4236-8F42-BE1E8B4D8A32-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+
+CCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFNetworkReachabilityManager.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915017.195850
+e411915017.928677
+r1
+xCompileC
+xbuild/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFNetworkReachabilityManager.o
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m237"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd8443209538db841^5ebeed09538db841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m0000000000000000^3641"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -include /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFNetworkReachabilityManager.d --serialize-diagnostics /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFNetworkReachabilityManager.dia -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFNetworkReachabilityManager.o36"B68458A8-9EE5-4CC8-BB1B-F1E9AB5C5E84-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+
+CCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFSecurityPolicy.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915017.631833
+e411915017.966382
+r1
+xCompileC
+xbuild/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFSecurityPolicy.o
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m213"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler45f2a109538db841^d064f709538db841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m0000000000000000^3569"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -include /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFSecurityPolicy.d --serialize-diagnostics /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFSecurityPolicy.dia -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFSecurityPolicy.o36"FBE097E6-1BA5-4990-BB6B-C48C542E02BE-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+
+CCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLConnectionOperation.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915017.653234
+e411915018.320789
+r1
+xCompileC
+xbuild/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLConnectionOperation.o
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m229"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler215aa709538db841^6d36520a538db841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m0000000000000000^3617"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -include /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLConnectionOperation.d --serialize-diagnostics /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLConnectionOperation.dia -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLConnectionOperation.o36"87D04B69-4BEE-4F96-9717-4AC1E1504406-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+
+CCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLRequestSerialization.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915017.676222
+e411915018.506889
+r1
+xCompileC
+xbuild/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLRequestSerialization.o
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m231"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3e3ead09538db841^cec3810a538db841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m0000000000000000^3623"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -include /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLRequestSerialization.d --serialize-diagnostics /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLRequestSerialization.dia -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLRequestSerialization.o36"77E36FFE-EA3C-4E82-A29C-4D08BBEAA034-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+
+CCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLResponseSerialization.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915017.930149
+e411915018.302680
+r1
+xCompileC
+xbuild/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLResponseSerialization.o
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m233"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5b42ee09538db841^8d7d4d0a538db841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m0000000000000000^3629"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -include /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLResponseSerialization.d --serialize-diagnostics /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLResponseSerialization.dia -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLResponseSerialization.o36"12D51802-7EE7-4DBA-9C4E-3CFD52EDCC76-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+
+CCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLSessionManager.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915017.967861
+e411915018.565875
+r1
+xCompileC
+xbuild/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLSessionManager.o
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m219"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler36e8f709538db841^83dd900a538db841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m0000000000000000^3587"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -include /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLSessionManager.d --serialize-diagnostics /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLSessionManager.dia -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/AFURLSessionManager.o36"9A8B77CB-6521-423E-AE98-0FDFA50FB689-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+
+CCompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/Pods-AFNetworking-dummy.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915018.304133
+e411915018.370299
+r1
+xCompileC
+xbuild/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/Pods-AFNetworking-dummy.o
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-dummy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-dummy.m201"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4b004e0a538db841^81cc5e0a538db841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-dummy.m0000000000000000^3548"CompileC build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-aamwtifknydrllemncjjkwneoqpa/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/Pods-AFNetworking-dummy.d --serialize-diagnostics /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/Pods-AFNetworking-dummy.dia -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-dummy.m -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/Pods-AFNetworking-dummy.o36"3F1372E9-F0E6-42C4-B017-AD7AEDF3B8C1-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+
+CLibtool /Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/libPods-AFNetworking.a normal x86_64
+s411915099.045536
+e411915099.059600
+r1
+xLibtool
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/libPods-AFNetworking.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Libtool .build/libPods-AFNetworking.a normal x86_6451"Libtool .build/libPods-AFNetworking.a normal x86_64d2c80b5b538db841^c83f0f5b538db841^---0#0#1#--758"Libtool .build/libPods-AFNetworking.a normal x86_64    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -filelist /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Objects-normal/x86_64/Pods-AFNetworking.LinkFileList -framework Cocoa -framework CoreServices -framework Security -framework SystemConfiguration -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/libPods-AFNetworking.a36"BE9CE6A1-F9D5-41DE-B6BE-F1D97E697FB4-
+b6E7BD4A9-2483-40B1-B1D6-BAEFE0F67C06
+
+CProcessPCH /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-aamwtifknydrllemncjjkwneoqpa/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915014.023131
+e411915017.193258
+r1
+xProcessPCH
+x/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-aamwtifknydrllemncjjkwneoqpa/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-prefix.pch
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch314"ProcessPCH /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-aamwtifknydrllemncjjkwneoqpa/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere7ff0506538db841^a67b3109538db841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3649"ProcessPCH /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-aamwtifknydrllemncjjkwneoqpa/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-aamwtifknydrllemncjjkwneoqpa/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-aamwtifknydrllemncjjkwneoqpa/Pods-AFNetworking-prefix.pch.d -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-prefix.pch -o /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-aamwtifknydrllemncjjkwneoqpa/Pods-AFNetworking-prefix.pch.pch36"5370E050-2AF9-4A0D-AAAA-3ACE1EE2FB3C-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+
+CProcessPCH /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915014.022606
+e411915017.187116
+r1
+xProcessPCH
+x/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-prefix.pch
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch314"ProcessPCH /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0dff0506538db841^abe82f09538db841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3660"ProcessPCH /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/BuildHeaders/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods-AFNetworking.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc --serialize-diagnostics /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch.d -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-AFNetworking-prefix.pch -o /var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Pods-AFNetworking-prefix-hkblesdjnndxavdqhqtijtrbcycs/Pods-AFNetworking-prefix.pch.pch36"BE9E7532-59DD-427D-A9A6-A2D498832CD6-
+bBA4CFCF1-FD9F-4FE5-8532-5682FD8B280E
+

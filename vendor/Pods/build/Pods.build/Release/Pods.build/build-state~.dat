@@ -1,0 +1,85 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC build/Pods.build/Release/Pods.build/Objects-normal/x86_64/Pods-dummy.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/libPods.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000529CB72F00000000000025C8
+t1386002223
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000529CB733000000000000044C
+t1386002227
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000529CB73300000000000001DB
+t1386002227
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000529CB73E0000000000000AC9
+t1386002238
+s2761
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/libPods-AFNetworking.a
+c0000000052DD1B8A00000000000FFEA0
+t1390222218
+s1048224
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/libPods.a
+t2
+s0
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-dummy.m
+c0000000052DD1B7F0000000000000070
+t1390222207
+s112
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/Objects-normal/x86_64/Pods-dummy.o
+t1390222218
+s4072
+
+N/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/Objects-normal/x86_64/Pods.LinkFileList
+c0000000052DD1B8A0000000000000073
+t1390222218
+s115
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesda37970a538db841^36cd970a538db841^---0#1#1#--18"Check dependencies36"CA44AB70-1D89-4D78-A3B6-6B66226B7AE1-
+
+CCompileC build/Pods.build/Release/Pods.build/Objects-normal/x86_64/Pods-dummy.o /Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411915018.593671
+e411915018.639291
+r1
+xCompileC
+xbuild/Pods.build/Release/Pods.build/Objects-normal/x86_64/Pods-dummy.o
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-dummy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-dummy.m162"CompileC build/Pods.build/Release/Pods.build/Objects-normal/x86_64/Pods-dummy.o Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler971b980a538db841^0bb8a30a538db841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-dummy.m0000000000000000^3100"CompileC build/Pods.build/Release/Pods.build/Objects-normal/x86_64/Pods-dummy.o Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/Pods-generated-files.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/Pods-own-target-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/Pods-all-target-headers.hmap -iquote /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/Pods-project-headers.hmap -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/include -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods/Headers -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods/Headers/AFNetworking -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/DerivedSources/x86_64 -I/Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/DerivedSources -F/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -isystem/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods/Headers -isystem/Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods/Headers/AFNetworking -MMD -MT dependencies -MF /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/Objects-normal/x86_64/Pods-dummy.d --serialize-diagnostics /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/Objects-normal/x86_64/Pods-dummy.dia -c /Users/ahmet/Projects/CryptoBar/vendor/Pods/Pods-dummy.m -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/Objects-normal/x86_64/Pods-dummy.o36"9096E35E-0427-440F-AD3F-04B507F180F2-
+bDB1B132D-5598-4A92-A721-21F184E23DA4
+
+CLibtool /Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/libPods.a normal x86_64
+s411915018.640196
+e411915018.666450
+r1
+xLibtool
+x/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/libPods.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Libtool .build/libPods.a normal x86_6438"Libtool .build/libPods.a normal x86_648bfba30a538db841^abafaa0a538db841^---0#0#1#--651"Libtool .build/libPods.a normal x86_64    cd /Users/ahmet/Projects/CryptoBar/vendor/Pods    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/ahmet/Projects/CryptoBar/vendor/Pods/.build -filelist /Users/ahmet/Projects/CryptoBar/vendor/Pods/build/Pods.build/Release/Pods.build/Objects-normal/x86_64/Pods.LinkFileList -framework Cocoa -lPods-AFNetworking -o /Users/ahmet/Projects/CryptoBar/vendor/Pods/.build/libPods.a36"0C5F24D3-5165-435A-BF74-58BAFF91511C-
+bDB1B132D-5598-4A92-A721-21F184E23DA4
+
