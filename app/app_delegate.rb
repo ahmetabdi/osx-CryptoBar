@@ -14,11 +14,7 @@ class AppDelegate
     @status_item.setTitle('...')
 
     @defaults = NSUserDefaults.standardUserDefaults
-    @defaults['currency'] ||= 'BTC'
-
-    @btc = createMenuItem('DOGE/BTC', 'toBtc')
-    @btc.setState NSOnState if @defaults['currency'] == 'BTC'
-    @status_menu.addItem @btc
+    @defaults['currency'] ||= 'USD'
 
     @usd = createMenuItem('BTC/USD', 'toUsd')
     @usd.setState NSOnState if @defaults['currency'] == 'USD'
@@ -39,25 +35,15 @@ class AppDelegate
   end
 
   def checkValue
-    Dogecoin.send("to#{@defaults['currency'].capitalize}") do |price|
-      @status_item.setTitle("Ð #{price}")
+    Crypto.send("to#{@defaults['currency'].capitalize}") do |price|
+      @status_item.setTitle("#{price}")
     end
-  end
-
-  def toBtc
-    @status_item.setTitle('...')
-
-    @btc.setState NSOnState
-    @usd.setState NSOffState
-
-    @defaults['currency'] = 'BTC'
-    self.checkValue
   end
 
   def toUsd
     @status_item.setTitle('...')
 
-    @btc.setState NSOffState
+    @gbp.setState NSOffState
     @usd.setState NSOnState
 
     @defaults['currency'] = 'USD'
@@ -68,7 +54,6 @@ class AppDelegate
     @status_item.setTitle('...')
 
     @usd.setState NSOffState
-    @btc.setState NSOffState
     @gbp.setState NSOnState
 
     @defaults['currency'] = 'GBP'

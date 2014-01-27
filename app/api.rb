@@ -1,38 +1,24 @@
-class Dogecoin
+class Crypto
   class << self
-    def toBtc(&block)
-      AFMotion::JSON.get('http://pubapi.cryptsy.com/api.php?method=singlemarketdata&marketid=132') do |result|
-        if result.success?
-          json = result.object
-          btcValue = json['return']['markets']['DOGE']['lasttradeprice']
-
-          block.call(btcValue)
-        end
-      end
-    end
 
     def toUsd(&block)
-      self.toBtc do |btcValue|
-        AFMotion::JSON.get('http://data.mtgox.com/api/1/BTCUSD/ticker_fast') do |result|
-          if result.success?
-            json = result.object
-            usdValue = json['return']['buy']['value']
+      AFMotion::JSON.get('http://data.mtgox.com/api/1/BTCUSD/ticker_fast') do |result|
+        if result.success?
+          json = result.object
+          usdValue = json['return']['buy']['value']
 
-            block.call((usdValue.to_f).round(8))
-          end
+          block.call("$ " + (usdValue.to_f).round(8).to_s)
         end
       end
     end
 
     def toGbp(&block)
-      self.toGbp do |gbpValue|
-        AFMotion::JSON.get('http://data.mtgox.com/api/1/BTCGBP/ticker_fast') do |result|
-          if result.success?
-            json = result.object
-            gbp = json['return']['buy']['value']
+      AFMotion::JSON.get('http://data.mtgox.com/api/1/BTCGBP/ticker_fast') do |result|
+        if result.success?
+          json = result.object
+          gbpValue = json['return']['buy']['value']
 
-            block.call((gbp.to_f).round(8))
-          end
+          block.call("£ " + (gbpValue.to_f).round(8).to_s)
         end
       end
     end
