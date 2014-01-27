@@ -6,8 +6,8 @@ class Crypto
         if result.success?
           json = result.object
           usdValue = json['return']['buy']['value']
-
-          block.call("$ " + (usdValue.to_f).round(8).to_s)
+          usd = "$" + sprintf("%.2f", usdValue.to_f.round(2).to_s)
+          block.call(usd)
         end
       end
     end
@@ -17,8 +17,8 @@ class Crypto
         if result.success?
           json = result.object
           gbpValue = json['return']['buy']['value']
-
-          block.call("£ " + (gbpValue.to_f).round(8).to_s)
+          gbp = "£" + sprintf("%.2f", gbpValue.to_f.round(2).to_s)
+          block.call(gbp)
         end
       end
     end
